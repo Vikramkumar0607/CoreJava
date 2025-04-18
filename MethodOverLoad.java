@@ -25,7 +25,7 @@ class Calcutor{
         public String add (int x, int y , String z){
         
  return String.valueOf(x+y) +  z;
- tt
+
 
         }
     }
